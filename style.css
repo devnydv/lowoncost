@@ -56,13 +56,13 @@ text{
 direction: "right";
 color:"red";
 }
- p{
+ /*p{
 border:1px solid black;
 overflow: auto;
 text-indent:45%;
  
 }
-
+*/
 
 
 @media (max-width: 952px){
