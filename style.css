@@ -63,7 +63,9 @@ color:"red";
  
 }
 
-
+#para{
+   font-size: 1em;
+   text-align: center;
 
 @media (max-width: 952px){
   label.logo{
@@ -109,3 +111,6 @@ section{
   background-size: cover;
   height: calc(100vh - 80px);
 }
+  #para{
+   font-size: 1em;
+   text-align: center;
