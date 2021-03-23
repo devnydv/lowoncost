@@ -60,7 +60,8 @@ color:"red";
 /*border:1px solid black; */
 /*overflow: auto; */
 /*text-indent:40%; */
- 
+ font-size: 1em;
+   text-align: center;
 }
 
 #para{
