@@ -56,17 +56,13 @@ text{
 direction: "right";
 color:"red";
 }
- pa{
-/*border:1px solid black; */
-/*overflow: auto; */
-/*text-indent:40%; */
-
-}
-
-#para{
+ p{
    font-size: 1em;
    text-align: center;
 }
+
+
+   
 
 @media (max-width: 952px){
   label.logo{
@@ -112,7 +108,5 @@ section{
   background-size: cover;
   height: calc(100vh - 80px);
 }
-  #para{
-   font-size: 2em;
-   text-align: center;
-}
+ 
+
