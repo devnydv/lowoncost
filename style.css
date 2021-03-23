@@ -66,6 +66,7 @@ color:"red";
 #para{
    font-size: 1em;
    text-align: center;
+}
 
 @media (max-width: 952px){
   label.logo{
@@ -114,3 +115,4 @@ section{
   #para{
    font-size: 1em;
    text-align: center;
+}
