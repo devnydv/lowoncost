@@ -113,6 +113,6 @@ section{
   height: calc(100vh - 80px);
 }
   #para{
-   font-size: 1em;
+   font-size: 2em;
    text-align: center;
 }
