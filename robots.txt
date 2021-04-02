@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+sitemap:Https://lowoncost.tk/sitemap.xml
