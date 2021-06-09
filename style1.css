@@ -2,6 +2,13 @@
 *,::after,::before{box-sizing:border-box;}
 body{margin:0;}
 body{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji';}
+.ifram{
+display: grid;
+place-items: center;
+}
+
+
+
 button{font-family:inherit;font-size:100%;line-height:1.15;margin:0;}
 button{text-transform:none;}
 button{-webkit-appearance:button;}
