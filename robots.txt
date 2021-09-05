@@ -1,3 +1,3 @@
 User-Agent: *
 Allow:/index.html
-sitemap:Https://lowoncost.tk/sitemap.xml
+sitemap:Https://lowoncostxy.xyz/sitemap.txt
